@@ -20,7 +20,7 @@ func fib(n: Int) -> Int {
     }
 }
 
-print("fib: \(fib(n: 10))")
+print("fib: \(fib(n: 10))\n")
 
 
 //Strings assignment
