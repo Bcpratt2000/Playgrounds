@@ -12,6 +12,7 @@ button.setTitleColor(.green, for: .normal)
 
 label.text="Hello, I Am Some Text"
 label.textAlignment = .center
+label.textColor = .green
 label.font = UIFont.systemFont(ofSize: 10)
 
 
